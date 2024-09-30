@@ -1,2 +1,2 @@
-name:zahid hassan
+name:zahid
 email: zahid.hassan@city.ac.uk
